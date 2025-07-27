@@ -7,7 +7,7 @@ function UpcomingReservations({id, name, date, time, people, status }) {
 
     //function to cancel reserrvations
     function cancelReservation() {
-        console.log(id + " Reservation cancelled")
+        console.log(" Reservation cancelled " + id)
 
     }
 
